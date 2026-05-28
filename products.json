@@ -1,5 +1,19 @@
 [
   {
+    "code": "WD002",
+    "title": "Portfolio Creative Agency",
+    "category": "pricelist ml",
+    "price": 2000000,
+    "originalPrice": 3500000,
+    "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Portfolio",
+    "tags": [
+      "#portfolio",
+      "#creative",
+      "#darkmode"
+    ],
+    "description": "Portfolio website dengan dark mode dan galeri interaktif"
+  },
+  {
     "code": "WD003",
     "title": "E-Commerce Luxury Store",
     "category": "pricelist ff",
