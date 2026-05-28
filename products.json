@@ -42,17 +42,17 @@
     "description": "Platform e-commerce dengan tema emas mewah"
   },
   {
-    "code": "WD004",
-    "title": "Banner WhatsApp Business Premium",
-    "category": "banner whatsapp business",
-    "price": 45000,
-    "originalPrice": 65000,
-    "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Banner+WA",
+    "code": "WD005",
+    "title": "Profile Picture WhatsApp",
+    "category": "profile picture whatsapp",
+    "price": 25000,
+    "originalPrice": 40000,
+    "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Profile+Pic",
     "tags": [
-      "#banner",
+      "#profilepic",
       "#whatsapp",
-      "#business"
+      "#avatar"
     ],
-    "description": "Banner WhatsApp Business dengan design profesional"
+    "description": "Profile picture WhatsApp dengan design custom premium"
   }
 ]
