@@ -68,19 +68,5 @@
       "#avatar"
     ],
     "description": "Profile picture WhatsApp dengan design custom premium"
-  },
-  {
-    "code": "WD006",
-    "title": "Profile Feedback Testimonial",
-    "category": "profile feedback",
-    "price": 30000,
-    "originalPrice": 45000,
-    "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Feedback",
-    "tags": [
-      "#feedback",
-      "#testimonial",
-      "#trust"
-    ],
-    "description": "Design profile feedback dengan tampilan testimonial customer"
   }
 ]
