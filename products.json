@@ -1,0 +1,72 @@
+[
+    {
+        "code": "WD001",
+        "title": "Landing Page Modern Business",
+        "category": "midman",
+        "price": 1500000,
+        "originalPrice": 2500000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Landing+Page",
+        "tags": ["#landingpage", "#business", "#responsive"],
+        "description": "Landing page premium dengan animasi smooth dan mobile responsive"
+    },
+    {
+        "code": "WD002",
+        "title": "Portfolio Creative Agency",
+        "category": "pricelist ml",
+        "price": 2000000,
+        "originalPrice": 3500000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Portfolio",
+        "tags": ["#portfolio", "#creative", "#darkmode"],
+        "description": "Portfolio website dengan dark mode dan galeri interaktif"
+    },
+    {
+        "code": "WD003",
+        "title": "E-Commerce Luxury Store",
+        "category": "pricelist ff",
+        "price": 3500000,
+        "originalPrice": 5000000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=E-Commerce",
+        "tags": ["#ecommerce", "#luxury", "#goldtheme"],
+        "description": "Platform e-commerce dengan tema emas mewah"
+    },
+    {
+        "code": "WD004",
+        "title": "Banner WhatsApp Business Premium",
+        "category": "banner whatsapp business",
+        "price": 45000,
+        "originalPrice": 65000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Banner+WA",
+        "tags": ["#banner", "#whatsapp", "#business"],
+        "description": "Banner WhatsApp Business dengan design profesional"
+    },
+    {
+        "code": "WD005",
+        "title": "Profile Picture WhatsApp",
+        "category": "profile picture whatsapp",
+        "price": 25000,
+        "originalPrice": 40000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Profile+Pic",
+        "tags": ["#profilepic", "#whatsapp", "#avatar"],
+        "description": "Profile picture WhatsApp dengan design custom premium"
+    },
+    {
+        "code": "WD006",
+        "title": "Profile Feedback Testimonial",
+        "category": "profile feedback",
+        "price": 30000,
+        "originalPrice": 45000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Feedback",
+        "tags": ["#feedback", "#testimonial", "#trust"],
+        "description": "Design profile feedback dengan tampilan testimonial customer"
+    },
+    {
+        "code": "WD007",
+        "title": "Profile Group WhatsApp",
+        "category": "profile group",
+        "price": 30000,
+        "originalPrice": 45000,
+        "imageUrl": "https://via.placeholder.com/400x250/2d1b69/d4af37?text=Group",
+        "tags": ["#group", "#whatsapp", "#community"],
+        "description": "Profile group WhatsApp dengan design menarik dan profesional"
+    }
+]
